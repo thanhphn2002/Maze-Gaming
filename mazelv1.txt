@@ -1,0 +1,14 @@
+Thanh:12.842
+An CS:15.151
+Duy:100.156
+Iris:5.15
+Thong:12.217
+Luan:15.135
+An y:156.159
+Phuc:16.144
+Tai:69.696
+Tam:666.666
+Hien:15.050
+Tuyet:1.111
+Tien:19.505
+Yamate:14.346
