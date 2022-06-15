@@ -1,2 +1,2 @@
 # Maze-Gaming
-HK 2 OU Project
+Second semester of first year in Open University
